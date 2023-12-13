@@ -1,4 +1,5 @@
-### Hi there 👋
+### 👋 Hej där! 
+Mitt namn är Lucas Källberg, en passionerad och social individ som älskar att utforska de senaste teknikerna inom webbutveckling. För närvarande studerar jag på Yrgo och strävar efter att skapa professionela och användarvänliga hemsidor.
 
 <!--
 **Cellmon95/Cellmon95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
